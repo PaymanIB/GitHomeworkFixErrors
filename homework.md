@@ -26,4 +26,4 @@ You create a full copy of the repo from GitHub (or another host) onto your local
 
 ## 6. What is a Pull Request?
 
-A Pull Request (PR) is a way to propose changes you’ve made in your branch or fork to be merged into another branch (often the main project).
+A Pull Request (PR) is a way to propose changes you’ve made in your branch or fork to be merged into another branch (often the main project)...
